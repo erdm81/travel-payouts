@@ -2,9 +2,9 @@
 
 [ ![Codeship Status for thewulf7/travel-payouts](https://codeship.com/projects/07bb5a60-7c95-0133-242d-26ef8f2c3d05/status?branch=master)](https://codeship.com/projects/119977)
 
-## Installation
+## Yukleme
 
-###Composer
+### Proje Sahibi
 
 ```
 composer require thewulf7/travel-payouts
@@ -14,7 +14,7 @@ or add to your composer.json file, in the "require" section
 "thewulf7/travel-payouts": "1.1.*"
 ```
 
-##Usage
+##Kullanim
 
  First of all create main Travel object and pass your token in it 
 ```php
